@@ -5,7 +5,7 @@ def title_letters(text: str) -> str:
     return text.upper()
 
 
-def title_words(text: str):
+def title_words(text: str) -> str:
     """
 Возвращает строку, где все слова начинаются с Заглавной буквы
 :param text: str
