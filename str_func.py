@@ -7,7 +7,7 @@ def title_letters(text: str):
 
 def title_words(text: str):
     """
-Возвращает строку, где все слова начинаются с заглавной буквы
+Возвращает строку, где все слова начинаются с Заглавной буквы
 :param text: str
 :return: str
     """
