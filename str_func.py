@@ -1,4 +1,4 @@
-def title_letters(text: str):
+def title_letters(text: str) -> str:
     """
     Функция превращает все строчные буквы входящей строки в Заглавные
     """
