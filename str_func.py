@@ -18,3 +18,5 @@ def title_words(text: str) -> str:
         title_words_list.append(word.title())
 
     return ' '.join(title_words_list)
+
+#Другой код
